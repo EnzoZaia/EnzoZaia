@@ -3,9 +3,9 @@
 ### 🎓 Sobre Mim
 
 * 🎓 **Estudante de Sistemas de Informação** na **FHO-UNIARARAS**.
-* 🚀 **Desenvolvedor Full Stack Júnior** (22 anos) focado em performance e UX.
+* 🚀 **Estagiario de Desenvolvimento BackEnd ERP** (22 anos) focado em performance e soluções escalaveis.
 * 💡 Apaixonado por transformar lógica complexa em **experiências digitais intuitivas**.
-* 🛠️ Atualmente focado no ecossistema **JavaScript/TypeScript** e soluções escaláveis com **Supabase**.
+* 🛠️ Atualmente focado no ecossistema **Delphi / Java / Oracle**.
 
 ---
 
